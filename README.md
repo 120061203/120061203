@@ -4,7 +4,9 @@
 
 💛 **2024 Google Developer Groups On Campus Lead** at National Central University (NCU)
 
-⚡ Interested in **IoT**,**UIUX**, **STEAM Education**, **Cloud Computing**, and **Cybersecurity**
+⚡ Interested in **IoT Embedded System**,**UIUX**, **STEAM Education**, **Cloud Computing**, and **Cybersecurity**
+
+🌐 Actively involved in **SITCON**, **COSCUP**,**HITCON**, and other tech communities, passionate about **open-source contributions**, and sharing my learning journey
 
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=120061203)
 
