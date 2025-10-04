@@ -2,9 +2,11 @@
 
 ## 🎮 Passionate about Information Technology & Community Engagement
 
-I'm a Devops Engineer,familiar with AWS Service、Docker、K8s.
+I'm a Devops Engineer,familiar with AWS Service、Docker、K8s、Terraform、Depoly method.
+
 Also Interest in Maker Technology,like laser Cutting , 3D Printing.
-Welcome to my website ![xsong.us](https://xsong.us).
+
+Welcome to my website **[xsong.us](https://xsong.us)**.
 
 💛 **2024 Google Developer Groups On Campus Lead** at National Central University (NCU)
 
